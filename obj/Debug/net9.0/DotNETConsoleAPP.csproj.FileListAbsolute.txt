@@ -1,0 +1,14 @@
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\bin\Debug\net9.0\DotNETConsoleAPP.exe
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\bin\Debug\net9.0\DotNETConsoleAPP.deps.json
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\bin\Debug\net9.0\DotNETConsoleAPP.runtimeconfig.json
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\bin\Debug\net9.0\DotNETConsoleAPP.dll
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\bin\Debug\net9.0\DotNETConsoleAPP.pdb
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\obj\Debug\net9.0\DotNETConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\obj\Debug\net9.0\DotNETConsoleAPP.AssemblyInfoInputs.cache
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\obj\Debug\net9.0\DotNETConsoleAPP.AssemblyInfo.cs
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\obj\Debug\net9.0\DotNETConsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\obj\Debug\net9.0\DotNETConsoleAPP.dll
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\obj\Debug\net9.0\refint\DotNETConsoleAPP.dll
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\obj\Debug\net9.0\DotNETConsoleAPP.pdb
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\obj\Debug\net9.0\DotNETConsoleAPP.genruntimeconfig.cache
+C:\Users\Kasun\Desktop\DotNETConsoleAPP\obj\Debug\net9.0\ref\DotNETConsoleAPP.dll
